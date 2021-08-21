@@ -1,0 +1,8 @@
+com\lzh\controller\ProductController.class
+com\lzh\web\UserController.class
+com\lzh\entity\User.class
+com\lzh\service\UserServiceImpl.class
+com\lzh\dao\UserDao.class
+com\lzh\entity\Page.class
+com\lzh\controller\TUserController.class
+com\lzh\service\UserService.class
